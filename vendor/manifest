@@ -1,0 +1,322 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/PuerkitoBio/goquery",
+			"repository": "https://github.com/PuerkitoBio/goquery",
+			"vcs": "git",
+			"revision": "ed7d758e9a34ba1f55e8084e0d731448b46921a8",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/andybalholm/cascadia",
+			"repository": "https://github.com/andybalholm/cascadia",
+			"vcs": "git",
+			"revision": "349dd0209470eabd9514242c688c403c0926d266",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/auth",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "auth",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/certdb",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "/certdb",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/config",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "config",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/crypto/pkcs7",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "crypto/pkcs7",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/csr",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "csr",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/errors",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "errors",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/helpers",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "helpers",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/log",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "log",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/ocsp/config",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "ocsp/config",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/vendor/github.com/go-sql-driver/mysql",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "vendor/github.com/go-sql-driver/mysql",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/vendor/github.com/google/certificate-transparency/go",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "vendor/github.com/google/certificate-transparency/go",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/vendor/github.com/jmoiron/sqlx",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "vendor/github.com/jmoiron/sqlx",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/vendor/github.com/kisielk/sqlstruct",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "vendor/github.com/kisielk/sqlstruct",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/vendor/github.com/lib/pq",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "vendor/github.com/lib/pq",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/vendor/github.com/mattn/go-sqlite3",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "vendor/github.com/mattn/go-sqlite3",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/vendor/github.com/mreiferson/go-httpclient",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "vendor/github.com/mreiferson/go-httpclient",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/vendor/golang.org/x/crypto/ocsp",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "vendor/golang.org/x/crypto/ocsp",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/vendor/golang.org/x/crypto/pkcs12",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "vendor/golang.org/x/crypto/pkcs12",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/cloudflare/cfssl/vendor/golang.org/x/net/context",
+			"repository": "https://github.com/cloudflare/cfssl",
+			"vcs": "git",
+			"revision": "851e4b77bb0e13a97e7d836a2f069d17ed5478c1",
+			"branch": "master",
+			"path": "vendor/golang.org/x/net/context",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/fatih/structs",
+			"repository": "https://github.com/fatih/structs",
+			"vcs": "git",
+			"revision": "a720dfa8df582c51dee1b36feabb906bde1588bd",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/jmoiron/sqlx",
+			"repository": "https://github.com/jmoiron/sqlx",
+			"vcs": "git",
+			"revision": "8ed836a8adb659e8492bcaa49e0880bb84075fe2",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/juju/ratelimit",
+			"repository": "https://github.com/juju/ratelimit",
+			"vcs": "git",
+			"revision": "acf38b000a03e4ab89e40f20f1e548f4e6ac7f72",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/lib/pq",
+			"repository": "https://github.com/lib/pq",
+			"vcs": "git",
+			"revision": "2704adc878c21e1329f46f6e56a1c387d788ff94",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/mattn/go-sqlite3",
+			"repository": "https://github.com/mattn/go-sqlite3",
+			"vcs": "git",
+			"revision": "cf7286f069c3ef596efcc87781a4653a2e7607bd",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/net/context",
+			"repository": "https://go.googlesource.com/net",
+			"vcs": "git",
+			"revision": "d1e1b351919c6738fdeb9893d5c998b161464f0c",
+			"branch": "master",
+			"path": "context",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/net/html",
+			"repository": "https://go.googlesource.com/net",
+			"vcs": "git",
+			"revision": "d1e1b351919c6738fdeb9893d5c998b161464f0c",
+			"branch": "master",
+			"path": "/html",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/text/encoding",
+			"repository": "https://go.googlesource.com/text",
+			"vcs": "git",
+			"revision": "f4b4367115ec2de254587813edaa901bc1c723a8",
+			"branch": "master",
+			"path": "/encoding",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/text/internal/gen",
+			"repository": "https://go.googlesource.com/text",
+			"vcs": "git",
+			"revision": "f4b4367115ec2de254587813edaa901bc1c723a8",
+			"branch": "master",
+			"path": "internal/gen",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/text/internal/tag",
+			"repository": "https://go.googlesource.com/text",
+			"vcs": "git",
+			"revision": "f4b4367115ec2de254587813edaa901bc1c723a8",
+			"branch": "master",
+			"path": "internal/tag",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/text/internal/utf8internal",
+			"repository": "https://go.googlesource.com/text",
+			"vcs": "git",
+			"revision": "f4b4367115ec2de254587813edaa901bc1c723a8",
+			"branch": "master",
+			"path": "internal/utf8internal",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/text/language",
+			"repository": "https://go.googlesource.com/text",
+			"vcs": "git",
+			"revision": "f4b4367115ec2de254587813edaa901bc1c723a8",
+			"branch": "master",
+			"path": "language",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/text/runes",
+			"repository": "https://go.googlesource.com/text",
+			"vcs": "git",
+			"revision": "f4b4367115ec2de254587813edaa901bc1c723a8",
+			"branch": "master",
+			"path": "runes",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/text/transform",
+			"repository": "https://go.googlesource.com/text",
+			"vcs": "git",
+			"revision": "f4b4367115ec2de254587813edaa901bc1c723a8",
+			"branch": "master",
+			"path": "transform",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/text/unicode/cldr",
+			"repository": "https://go.googlesource.com/text",
+			"vcs": "git",
+			"revision": "f4b4367115ec2de254587813edaa901bc1c723a8",
+			"branch": "master",
+			"path": "unicode/cldr",
+			"notests": true
+		}
+	]
+}
