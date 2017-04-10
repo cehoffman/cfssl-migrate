@@ -1,0 +1,9 @@
+FROM golang:1.8-alpine
+
+RUN apk update && apk add alpine-sdk
+
+WORKDIR /go/src/github.com/cehoffman/cfssl-migrate
+VOLUME /go/src/github.com/cehoffman/cfssl-migrate
+
+ENTRYPOINT ["go"]
+CMD ["build", "-o", "migrate", "--ldflags" , "-s -w -extldflags '-static'", "./migrate.go"]
